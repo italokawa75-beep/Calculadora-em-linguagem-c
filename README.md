@@ -1,4 +1,5 @@
 O que o programa faz:
+
 Soma, subtração, multiplicação e divisão
 Potência, raiz quadrada, logaritmos e exponencial
 Seno, cosseno, tangente e suas inversas
