@@ -14,5 +14,5 @@ Ambiente: OnlineGDB
 
  Como executar:
 Opção 1 — Online
-Acesse o OnlineGDB
+Acesse o OnlineGDB e 
 Cole o código e clique em Run.
