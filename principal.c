@@ -4,7 +4,7 @@
 
 
 int main() {
-   double num1, num2, resultado, media;
+   double num1, num2, num3,num4, resultado, media;
    int operador;
    char continuar;
 
@@ -207,8 +207,12 @@ int main() {
             scanf("%lf", &num1);
             printf("Digite o segundo número: ");
             scanf("%lf", &num2);
+            printf("Digite o terceiro número: ");
+            scanf("%lf", &num3);
+            printf("Digite o quarto número: ");
+            scanf("%lf", &num4);
             
-            media = (num1 + num2 ) / 20; // Função para calcular média aritmética
+            media = (num1 + num2 + num3 + num4 ) / 4.0; // Função para calcular média aritmética
             printf("Resultado: %.2f\n", media);
             break;
             
@@ -332,7 +336,7 @@ int main() {
             
             
             case 23: // Sair 
-            printf("Saindo da calculadra, obrigado por utilizar!!");
+            printf("Saindo da calculadora, obrigado por utilizar!!");
             return 0; //encerra a calculadora
             break;
             
