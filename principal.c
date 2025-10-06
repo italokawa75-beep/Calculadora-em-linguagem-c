@@ -1,6 +1,5 @@
 #include <stdio.h>   // biblioteca para entrada e saída (printf, scanf)
 #include <math.h>    // biblioteca matemática (pow, sqrt, sin, cos, etc)
-#include <stdlib.h>   // biblioteca padrão
 
 
 int main() {
